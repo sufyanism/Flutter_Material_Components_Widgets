@@ -1,4 +1,9 @@
 # Material Components
+Flutter provides a variety of visual, behavioral, and motion-rich widgets that use 3 unique components. Material 3 is Flutter’s standard design language, allowing you to design and build beautiful, functional apps that work on any platform. List of Rich widgets are given below,
+- Actions
+- Navigation
+- Selection
+- Text inputs etc
 
 # Download Flutter
 - Visit the official Flutter site "https://docs.flutter.dev/get-started/install"
